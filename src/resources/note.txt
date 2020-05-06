@@ -1,0 +1,4 @@
+111;Baze de date;5
+111;Analiza;10
+112;Baze de date;9
+113;SGBD1;3
